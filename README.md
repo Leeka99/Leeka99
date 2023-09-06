@@ -8,6 +8,31 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
+### Hi there 👋, my name is DSRN
+#### My nickname is DSRN and it means do something right now!
+![My nickname is DSRN and it means do something right now!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am GitHub Readme Generator's creator
+I made this project just for fun
+
+Skills: Python / Java / C / Django / HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DSRN0000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/DSRN0000)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DSRN0000)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSRN0000)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DSRN0000&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DSRN0000)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DSRN0000)  
+
+![Profile views](https://gpvc.arturio.dev/DSRN0000)  
+
 <!--
 **DSRN0000/DSRN0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
