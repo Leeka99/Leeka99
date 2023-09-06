@@ -27,11 +27,9 @@ Skills: Python / Java / C / Django / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DSRN0000&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DSRN0000)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DSRN0000)  
 
-![Profile views](https://gpvc.arturio.dev/DSRN0000)  
+
 
 <!--
 **DSRN0000/DSRN0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
