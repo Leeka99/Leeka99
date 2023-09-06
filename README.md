@@ -17,7 +17,6 @@ Skills: Python / Java / C / Django / HTML / CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DSRN0000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/DSRN0000)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DSRN0000)](https://github.com/ryo-ma/github-profile-trophy)
 
