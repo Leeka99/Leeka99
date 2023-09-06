@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/{GitHub}-{181717}?style={flat}&logo={기술스택아이콘}&logoColor={white}"/>
+<img src="https://img.shields.io/badge/{Git}-{181717}?style={flat}&logo={기술스택아이콘}&logoColor={white}"/>
 
 <!--
 **DSRN0000/DSRN0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
