@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome my blog 👋
+👋 Welcome my blog 👋
 
 
 
