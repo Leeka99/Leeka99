@@ -19,11 +19,11 @@ My nickname is DSRN and it means Do Something Right Now!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DSRN0000)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSRN0000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DSRN0000)
-</div>
 
 
 
