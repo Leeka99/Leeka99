@@ -11,7 +11,7 @@ Hi there 😄, my name is Kanghyeon
  
 My nickname is DSRN and it means Do Something Right Now!
 </h3>
-</div>
+
 
 
 ![My nickname is DSRN and it means Do Something Right Now!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -24,7 +24,7 @@ My nickname is DSRN and it means Do Something Right Now!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DSRN0000)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DSRN0000)  
-
+</div>
  
 
 
