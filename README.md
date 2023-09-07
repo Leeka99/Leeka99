@@ -1,4 +1,4 @@
-<center>👋 Welcome my blog 👋</center>
+<div style = "text-align:center">👋 Welcome my blog 👋</div>
 
 
 
