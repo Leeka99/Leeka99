@@ -1,6 +1,4 @@
-<head>
-<div style = "text-align:center">👋 Welcome my blog 👋</div>
-</head>
+<div align:center">👋 Welcome my blog 👋</div>
 
 
  ✨Tech Stack✨
