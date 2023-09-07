@@ -1,4 +1,4 @@
-👋 Welcome my blog 👋
+<center>👋 Welcome my blog 👋</center>
 
 
 
