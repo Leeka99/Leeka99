@@ -11,7 +11,7 @@
 ------------------------------------------------------------------------------
 
 <h3>
-Hi there 😄, my name is Kanghyeon
+Hi there😄, my name is Kanghyeon
  
 My nickname is DSRN and it means Do Something Right Now!
 </h3>
