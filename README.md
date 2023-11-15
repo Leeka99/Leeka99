@@ -12,14 +12,6 @@ My nickname is DSRN and it means Do Something Right Now!
 </h3>
 
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-
 </div>
 
 
