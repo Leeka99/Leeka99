@@ -13,8 +13,6 @@ My nickname is DSRN and it means Do Something Right Now!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DSRN0000&theme=calm)  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DSRN0000&theme=calm)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DSRN0000&theme=calm)
-
 </div>
 
 
