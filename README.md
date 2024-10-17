@@ -11,8 +11,6 @@ Hi there😄, my name is KangHyeon
 My nickname is DSRN and it means Do Something Right Now!
 </h3>
 
-------------------------------------------------------------------------------
-
 </div>
 
 
