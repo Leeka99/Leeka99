@@ -5,7 +5,10 @@
 ------------------------------------------------------------------------------
 
 <h3>
+Hello! <br>
 안녕하세요! <br><br>
+
+I am growing with three keywords: analysis, empathy, and persistence.<br>
 저는 분석, 공감, 집요함 3가지 키워드로 성장하고 있습니다. <br><br>
 
 My nickname is DSRN and it means Do Something Right Now! <br>
