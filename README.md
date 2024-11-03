@@ -1,36 +1,67 @@
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50&animation=twinkling)
+# DSRN - Do Something Right Now! 👨‍💻
+
+안녕하세요! 백엔드 개발자 **DSRN**입니다.  
+분석, 공감, 집요함이라는 세 가지 키워드로 성장하며, 문제 해결과 코드의 완성도에 집중하는 개발자로서의 길을 걸어가고 있습니다. 
 
 ---
 
-<h3>
-👋 Hello! <br> 안녕하세요! <br><br>
+## 🔍 About Me
 
-I am growing with three keywords: <b>analysis</b>, <b>empathy</b>, and <b>persistence</b>.<br>
-저는 <b>분석</b>, <b>공감</b>, <b>집요함</b> 3가지 키워드로 성장하고 있습니다. <br><br>
-
-🌱 My nickname is <b>DSRN</b>, which stands for <i>"Do Something Right Now!"</i> <br>
-저의 별칭은 <b>DSRN</b>이고 무엇이든 <i>당장 시작하라!</i> 라는 뜻입니다. <br>
-</h3>
+- 🔥 **Passionate Backend Developer**: 언제나 더 나은 코드를 위해 고민하며, 주도적으로 문제를 해결합니다.
+- 💡 **Analysis, Empathy, Persistence**: 모든 개발 과정에서 이 세 가지 가치를 최우선으로 생각합니다.
+- 🛠 **Backend Focused**: 클린 코드와 최적화된 서버 설계에 집중하며, 효율적인 데이터 관리를 중요하게 여깁니다.
 
 ---
 
-<div align="center">
-💡 <b>Skills</b> <br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<!-- 추가적인 스킬 배지들을 여기에 추가할 수 있습니다 -->
-</div>
+## 🚀 Skills & Technologies
 
-<div align="center">
-🔗 <b>Connect with me</b> <br>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!-- 더 많은 소셜 링크를 여기에 추가할 수 있습니다 -->
-</div>
+### Languages
+- **Java**, **Python**, **JavaScript**
+
+### Frameworks & Libraries
+- **Spring Boot**, **Spring MVC**, **JPA**
+- **Node.js** (for API development)
+
+### Databases
+- **MySQL**, **MongoDB**
+- **Redis** (for caching)
+
+### DevOps & Cloud
+- **AWS EC2**, **Docker**, **GitHub Actions**
 
 ---
 
-</div>
+## 📂 Projects
+
+### 1. CampusFinder 📍
+> **Wonkwang University Map Application**  
+> 학생들이 캠퍼스 내 건물과 강의실을 쉽게 찾을 수 있도록 지원하는 Android 기반의 맵 애플리케이션입니다.
+
+- **기능**: GPS 기반 길찾기, 층별 실내 지도 표시, 특정 강의실 검색 기능
+- **기술 스택**: Android, Naver Maps API, Spring Boot, MySQL
+- **역할**: 백엔드 아키텍처 설계 및 데이터 관리, 경로 계산 알고리즘 구현
+
+### 2. Book Management System 📚
+> **Spring MVC 기반의 도서 관리 시스템**  
+> 도서 대여와 관리 기능을 제공하는 웹 애플리케이션으로, 사용자와 관리자 기능을 포함합니다.
+
+- **기능**: 도서 검색, 대출, 반납, 관리자 페이지에서 재고 관리
+- **기술 스택**: Java, Spring MVC, MySQL
+- **역할**: 데이터베이스 설계 및 CRUD API 개발, 로그인/권한 관리 구현
+
+---
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+## 💡 Contact
+
+- **Email**: your.email@example.com
+- **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)
+
+---
+
+성장과 도전의 길에 항상 최선을 다하고 있으며, 새로운 기회와 협업을 기다리고 있습니다. 감사합니다! 😊
