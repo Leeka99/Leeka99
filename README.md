@@ -1,22 +1,15 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : HelloWorld!%20!🥳
-글자크기 : 50
-텍스트효과 : twinkling
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld!%20!}&fontSize=${50}&animation=${twinkling})
 
 ------------------------------------------------------------------------------
 
 <h3>
-안녕하세요! DSRN
-저는 분석, 공감, 집요함 3가지 키워드로 성장하고 있습니다.
+안녕하세요! <br>
+저는 분석, 공감, 집요함 3가지 키워드로 성장하고 있습니다. <br>
 
-My nickname is DSRN and it means Do Something Right Now!
-저의 별칭은 DSRN이고 무엇이든 당장 시작하라! 라는 뜻입니다.
+My nickname is DSRN and it means Do Something Right Now! <br>
+저의 별칭은 DSRN이고 무엇이든 당장 시작하라! 라는 뜻입니다. <br>
 </h3>
 
 </div>
