@@ -14,7 +14,7 @@
 </h3>
 
 ---
-
+<h2>💡 Skills</h2>
 <div style="display: flex; justify-content: center; gap: 15px; padding: 20px;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
