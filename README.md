@@ -8,7 +8,6 @@
 
 🌟 I am growing with three keywords: <b>analysis</b>, <b>empathy</b>, and <b>persistence</b>.<br>
 저는 <b>분석</b>, <b>공감</b>, <b>집요함</b> 3가지 키워드로 성장하는 개발자입니다. <br><br>
-
 </h3>
 
 ---
