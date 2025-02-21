@@ -9,8 +9,6 @@
 🌟 I am growing with three keywords: <b>analysis</b>, <b>empathy</b>, and <b>persistence</b>.<br>
 저는 <b>분석</b>, <b>공감</b>, <b>집요함</b> 3가지 키워드로 성장하는 개발자입니다. <br><br>
 
-🚀 My nickname is <b>DSRN</b>, which stands for <i>"Do Something Right Now!"</i> <br>
-저의 별칭은 <b>DSRN</b>이고 무엇이든 <i>당장 시작하라!</i> 라는 뜻입니다. <br>
 </h3>
 
 ---
