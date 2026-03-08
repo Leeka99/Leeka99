@@ -61,10 +61,10 @@
 - JPA
 
 **What I did**
-- 수강 신청 도메인 모델 설계
-- 강의 / 학생 / 신청 관계 구조 설계
-- 수강 신청 로직 구현
-- 데이터 저장 및 조회 API 구현
+- 수강신청 시스템 구현
+- 멀티스레드 + 락 적용
+- 동시성 검증 
+- 테스트
 
 🔗 [깃 허브 저장소](https://github.com/Leeka99/course-registration-system)
 <br>
@@ -80,10 +80,7 @@
 - MySQL
 
 **What I did**
-- REST API 설계 및 구현
-- 도메인 기반 서비스 로직 구현
-- 데이터베이스 엔티티 설계
-- Git 기반 협업 및 코드 리뷰 경험
+- 일정 도메인 로직 구현
 
 🔗 [깃 허브 저장소](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_DOD_BE)
 <br>
@@ -98,10 +95,9 @@
 - MySQL
 
 **What I did**
-- 서비스 로직 구현
-- API 설계 및 개발
-- 도메인 구조 설계 참여
-- 팀 협업 기반 기능 개발
+- 회원가입/로그인 서비스 로직 구현
+- 컨텐츠 검색 기능 구현
+- 오늘의 운세 기능 구현
 
 🔗 [깃 허브 저장소 - 버전 업](https://github.com/prgrms-be-devcourse/NBE5-6-3-Team05) <br>
 🔗 [깃 허브 저장소 - 초기 버전](https://github.com/prgrms-be-devcourse/NBE5-6-2-Team05)
