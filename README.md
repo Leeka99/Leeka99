@@ -105,10 +105,9 @@
 <br>
 
 # 📚 현재 관심 있게 공부하고 있는 내용
-- Spring Backend Architecture With AI
+- Backend Architecture With AI
 - Redis Cache
 - 메시지 큐 시스템
-- Backend Architecture
 - 알고리즘 문제 해결
 
 </div>
