@@ -38,7 +38,7 @@
 <br>
 
 ## 1️⃣ Backend Legacy Code Refactoring
-- 레거시 코드를 분석하고 구조를 개선하는 프로젝트 
+- 레거시 코드를 분석하고 구조를 개선하는 프로젝트 With AI (Junie)
 
 **Tech** 
 - Java
