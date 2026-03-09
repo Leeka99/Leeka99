@@ -1,6 +1,6 @@
 <div align="center">
  
-# ❌ README 공사중 - 대강 써둠❌
+# ❌ README 공사중 ❌
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Backend%20Developer%20Lee%20Kanghyeon&fontSize=45&animation=twinkling)
 
