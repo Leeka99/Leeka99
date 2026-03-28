@@ -3,7 +3,7 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Backend%20Developer%20Lee%20Kanghyeon&fontSize=45&animation=twinkling)
 
-# 👋 Hello, I'm Lee Kanghyeon
+# 👋 Hello, I'm Hyeon
 ### Problem-solving Backend Developer
 
 기계적으로 기능을 구현하는 개발자가 아니라  
