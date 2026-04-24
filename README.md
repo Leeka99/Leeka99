@@ -36,22 +36,7 @@
 # 🚀 Featured Projects
 <br>
 
-## 1️⃣ Backend Legacy Code Refactoring
-- 레거시 코드를 분석하고 구조를 개선하는 프로젝트 With AI (Junie)
-
-**Tech** 
-- Java
-- Spring Boot 
-
-**What I did** 
-- 기존 코드 구조 분석
-- 유지보수성을 고려한 코드 리팩토링
-- 코드 가독성과 구조 개선
-
-- 🔗 [깃 허브 저장소](https://github.com/Leeka99/Backend-Regacy-Code-With-Junie)
-<br>
-
-## 2️⃣ Course Registration System
+## 1️⃣ Course Registration System
 - 수강 신청 과정에서 발생할 수 있는 **동시성 문제와 트래픽 상황을 고려하여 설계한 백엔드 시스템 프로젝트**
 
 **Tech**
@@ -69,7 +54,7 @@
 🔗 [깃 허브 저장소](https://github.com/Leeka99/course-registration-system)
 <br>
 
-## 3️⃣ IttaeOK – TEAM DOD Backend (BL)
+## 2️⃣ IttaeOK – TEAM DOD Backend (BL)
 효율적인 일정 조율을 위한 통합 스케줄링 플랫폼
 - 인원 : 10명 (백엔드 10명 , 프론트 10명)
 
@@ -85,7 +70,7 @@
 🔗 [깃 허브 저장소](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_DOD_BE)
 <br>
 
-## 4️⃣ MoodLink - TEAM NULL NULL(BL)
+## 3️⃣ MoodLink - TEAM NULL NULL(BL)
 사용자 맞춤형 컨텐츠 추천 서비스 버전 업
 - 인원 : 5명 (백엔드)
 
