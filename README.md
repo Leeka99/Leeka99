@@ -54,7 +54,7 @@
 🔗 [깃 허브 저장소](https://github.com/Leeka99/course-registration-system)
 <br>
 
-## 2️⃣ IttaeOK – TEAM DOD Backend (BL)
+## 2️⃣ IttaeOK – TEAM DOD Backend
 효율적인 일정 조율을 위한 통합 스케줄링 플랫폼
 - 인원 : 10명 (백엔드 10명 , 프론트 10명)
 
@@ -70,7 +70,7 @@
 🔗 [깃 허브 저장소](https://github.com/prgrms-web-devcourse-final-project/WEB5_6_DOD_BE)
 <br>
 
-## 3️⃣ MoodLink - TEAM NULL NULL(BL)
+## 3️⃣ MoodLink - TEAM NULL NULL
 사용자 맞춤형 컨텐츠 추천 서비스 버전 업
 - 인원 : 5명 (백엔드)
 
@@ -89,9 +89,8 @@
 <br>
 
 # 📚 현재 관심 있게 공부하고 있는 내용
-- Backend Architecture With AI
-- Redis Cache
-- 메시지 큐 시스템
-- 알고리즘 문제 해결
+- AI를 활용한 개발
+- 웹 소켓
+- 알고리즘
 
 </div>
