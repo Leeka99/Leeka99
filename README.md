@@ -1,10 +1,9 @@
 <div align="center">
 
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Backend%20Developer%20Lee%20Kanghyeon&fontSize=45&animation=twinkling)
 
-# 👋 Hello, I'm Hyeon
-### Problem-solving Backend Developer
+# I'm Hyeon
+### Backend Developer
 
 기계적으로 기능을 구현하는 개발자가 아니라  
 **기술을 통해 사람에게 의미 있는 가치를 만드는 개발자**가 되고 싶습니다.
