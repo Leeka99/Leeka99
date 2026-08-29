@@ -1,8 +1,9 @@
 <div align="center">
 
 ---
-
 # I'm Hyeon, Backend Developer
+
+<br>
 
 > **잘 만드는 방법**을 고민합니다.  
 > **잘 만든 기능 1개가 동작만 하는 기능 100개보다 낫다고 생각합니다.**
