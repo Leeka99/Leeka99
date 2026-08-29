@@ -4,8 +4,11 @@
 
 # I'm Hyeon - Backend Developer
 
-기계적으로 기능을 구현하는 개발자가 아니라  
-**기술을 통해 사람에게 의미 있는 가치를 만드는 개발자**가 되고 싶습니다.
+기능 개발이 목적이 아닌 "잘 만드는 방법"에 중점을 둡니다.
+잘 만든 기능 1개가, 단순히 동작만 하는 기능 100개보다 낫다고 생각합니다.
+
+I think about how to make it better.
+1 well-made feature is better than 100 features that simply work.
 
 </div>
 <br>
